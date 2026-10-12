@@ -1,0 +1,11 @@
+{
+  "title": "Code and data for: Machine Learning Prediction of Ge-X (X=C, H, N, O) Bond Dissociation Energies via DFT Trained Data: A Comparative Study",
+  "upload_type": "software",
+  "description": "Python code, dataset (1,183 organogermanium compounds with CAM-B3LYP/LANL2DZ electronic dissociation energies), descriptors, train/test split, model results, Ge benchmark against experiment, and Gaussian job summaries accompanying the article.",
+  "creators": [
+    {"name": "Tajammal, Mahnoor", "affiliation": "Department of Chemistry, COMSATS University, Abbottabad Campus, Abbottabad, 22060, Pakistan"},
+    {"name": "Ayub, Khurshid", "affiliation": "Department of Chemistry, COMSATS University, Abbottabad Campus, Abbottabad, 22060, Pakistan", "orcid": "0000-0003-0990-1860"}
+  ],
+  "license": "MIT",
+  "keywords": ["bond dissociation energy", "germanium", "density functional theory", "machine learning", "XGBoost", "TPOT"]
+}

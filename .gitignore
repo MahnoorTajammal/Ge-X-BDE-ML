@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+outputs/
+outputs_Ge_X_BDE.zip
+tpot_outputs/
+tpot_outputs.zip
+tpot_extras/
+scan_results/
+.ipynb_checkpoints/
+.DS_Store

@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the associated article and this archive."
+title: "Code and data for: Machine Learning Prediction of Ge-X (X=C, H, N, O) Bond Dissociation Energies via DFT Trained Data: A Comparative Study"
+type: software
+authors:
+  - family-names: Tajammal
+    given-names: Mahnoor
+    email: tajammalmahnoor@gmail.com
+    affiliation: "Department of Chemistry, COMSATS University, Abbottabad Campus, Abbottabad, 22060, Pakistan"
+  - family-names: Ayub
+    given-names: Khurshid
+    email: khurshid@cuiatd.edu.pk
+    orcid: "https://orcid.org/0000-0003-0990-1860"
+    affiliation: "Department of Chemistry, COMSATS University, Abbottabad Campus, Abbottabad, 22060, Pakistan"
+license: MIT
+repository-code: "https://github.com/Mahnoor Tajammal/Ge-X-BDE-ML"
+keywords:
+  - bond dissociation energy
+  - germanium
+  - density functional theory
+  - machine learning
+  - XGBoost
+  - TPOT
