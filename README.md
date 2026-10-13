@@ -4,10 +4,10 @@ Code, data and results accompanying the article
 
 **Machine Learning Prediction of Ge-X (X=C, H, N, O) Bond Dissociation Energies via DFT Trained Data: A Comparative Study**
 
-**Authors:** Mahnoor Tajammal<sup>a</sup> (tajammalmahnoor@gmail.com) and Khurshid Ayub<sup>a,*</sup> (khurshid@cuiatd.edu.pk, ORCID 0000-0003-0990-1860)
+**Authors:** **Authors:** Mahnoor Tajammal<sup>a</sup> (tajammalmahnoor@gmail.com, ORCID [0009-0002-9643-7639](https://orcid.org/0009-0002-9643-7639)) and Khurshid Ayub<sup>a,*</sup> (khurshid@cuiatd.edu.pk, ORCID [0000-0003-0990-1860](https://orcid.org/0000-0003-0990-1860))
 <sup>a</sup> Department of Chemistry, COMSATS University, Abbottabad Campus, Abbottabad, 22060, Pakistan. \*Corresponding author.
 
-**Archive DOI:** assigned by Zenodo at the first release (insert here and in the article's Code availability section).
+**Archive DOI:** assigned by Zenodo at the first release (https://zenodo.org/records/23318237).
 **Licence:** MIT (see `LICENSE`).
 
 ## What this repository does
